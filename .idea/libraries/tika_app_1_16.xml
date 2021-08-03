@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="tika-app-1.16">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/tika-app-1.16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../itext" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../itext" recursive="false" type="SOURCES" />
+  </library>
+</component>

@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PDFtoExcel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PDFtoExcel_jar</output-path>
+    <root id="archive" name="PDFtoExcel.jar">
+      <element id="module-output" name="PDFtoExcel" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/poi-ooxml-3.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/poi-ooxml-schemas-3.13.jar" path-in-jar="/" />
+      <element id="library" level="project" name="itext7-barcodes-7.0.2-sources" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/poi-3.13.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/tika-app-1.16.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
